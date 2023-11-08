@@ -1,0 +1,23 @@
+#messi{height:500px ;width: 700px;box-shadow: 6px 5px 5px black;}
+#messi_copa{background: linear-gradient(to left,blue,rgb(255, 255, 255),blue,white,blue);margin-top:65px ; }
+#abc{
+list-style:none ;
+cursor: pointer;
+color: lightskyblue;
+position: fixed;
+margin-top:-35px;
+width:92% ; 
+}
+#IO{
+display:inline ; 
+margin-top: 10px;
+background-color:white ;
+padding:15px ;
+font-weight:900 ;
+}
+#IO:hover{background-color:yellow ;}
+#ORIGEN {background: linear-gradient(to left,blue,rgb(255, 255, 255),blue,white,blue);}
+#nombre,#id {background-color: yellow;}
+#gol,#premios,#kev{background: linear-gradient(to left,blue,rgb(255, 255, 255),blue,white,blue);}
+
+
